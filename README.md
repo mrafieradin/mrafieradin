@@ -12,7 +12,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═══╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=6c3baa&center=true&vCenter=true&width=600&lines=Technical+Consultant;Dynamics+365+Developer;Breaking+Manual+Processes;Building+Enterprise+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=e924ef&center=true&vCenter=true&width=600&lines=Technical+Consultant;Dynamics+365+Developer;Breaking+Manual+Processes;Building+Enterprise+Solutions" alt="Typing SVG" />
 
 ---
 
