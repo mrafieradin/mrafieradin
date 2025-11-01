@@ -12,20 +12,61 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═══╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=8a4ad5&center=true&vCenter=true&width=600&lines=Technical+Consultant;Dynamics+365+Developer;Breaking+Manual+Processes;Building+Enterprise+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=e924ef&center=true&vCenter=true&width=600&lines=Technical+Consultant;Dynamics+365+Developer;Breaking+Manual+Processes;Building+Enterprise+Solutions" alt="Typing SVG" />
 
 ---
 
 ### 🎮 PLAYER STATS
 
+<table>
+<tr>
+<td width="30%">
+
 ```
-┌─────────────────────────────────────────────────────────────┐
-│ LEVEL: Junior Developer → Mid-Level (Loading...)            │
-│ LOCATION: Petaling Jaya, Malaysia 🇲🇾                        │
-│ QUEST: Mastering Dynamics 365 F&O                           │
-│ XP GAINED: 70% Manual Work Reduction | 40% Efficiency Boost │
-└─────────────────────────────────────────────────────────────┘
+       _..._
+     .'     '.      _
+    /    .-""-\   _/ \
+  .-|   /:.   |  |   |
+  |  \  |:.   /.-'-./
+  | .-'-;:__.'    =/
+  .'=  *=|     _.='
+ /   _.  |    ;
+;-.-'|    \   |
+/   | \    _\  _\
+\__/'._;.  ==' ==\
+         \    \   |
+         /    /   /
+         /-._/-._/
+         \   `\  \
+          `-._/._/
 ```
+
+</td>
+<td width="70%">
+
+```
+┌──────────────────────────────────────────────────┐
+│ CLASS: ERP Developer                             │
+│ LEVEL: 25 → 26 (Loading...)                      │
+│                                                  │
+│ 📍 LOCATION: Petaling Jaya, Malaysia 🇲🇾          │
+│ 🎯 CURRENT QUEST: Mastering Dynamics 365 F&O     │
+│                                                  │
+│ ⚡ SPECIAL ABILITIES UNLOCKED:                   │
+│ ├─ 70% Manual Work Elimination                   │
+│ ├─ 40% Process Speed Boost                       │
+│ ├─ 9-Week Rapid Learning                         │
+│ └─ 10+ Production Deployments                    │
+│                                                  │
+│ HP: ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️ 100%               │
+│ MP: 💙💙💙💙💙💙💙💙💙💙 100%               │
+│ XP: [████████████████████░] 95% to Level 26      │
+└──────────────────────────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -169,7 +210,7 @@
 
 ## 🏆 BOSS BATTLES COMPLETED
 
-<table>
+<table align="center">
 <tr>
 <td width="50%">
 
