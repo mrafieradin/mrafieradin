@@ -212,7 +212,7 @@
 
 ## 🏆 BOSS BATTLES COMPLETED
 
-<table>
+<table align="center">
 <tr>
 <td width="50%">
 
@@ -263,7 +263,7 @@
 
 ### 💎 RARE DROPS & SPECIAL ITEMS
 
-<table>
+<table align="center">
 <tr>
 <td align="center" width="33%">
 
@@ -322,7 +322,7 @@
 </tr>
 </table>
 
-<table>
+<table align="center">
 <tr>
 <td align="center" width="33%">
 
