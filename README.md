@@ -399,16 +399,14 @@
 </td>
 </tr>
 </table>
-
-```
-
+<!-- Activity Graph -->
+<table>
+<tr>
+<td>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrafieradin&theme=tokyo-night&hide_border=true&bg_color=10002B&color=C77DFF&line=FF6AD5&point=E0AAFF&area=true&area_color=9D4EDD" width="98%" alt="Activity Graph"/>
 </td>
 </tr>
 </table>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrafieradin&theme=tokyo-night&hide_border=true&bg_color=10002B&color=C77DFF&line=FF6AD5&point=E0AAFF&area=true&area_color=9D4EDD" width="98%" alt="Activity Graph"/>
-
 <!-- Contribution Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrafieradin/mrafieradin/output/github-contribution-grid-snake-dark.svg">
