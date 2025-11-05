@@ -400,26 +400,6 @@
 </tr>
 </table>
 
-<!-- Language Stats Row -->
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrafieradin&layout=compact&theme=tokyonight&hide_border=true&bg_color=10002B&title_color=C77DFF&text_color=E0AAFF&langs_count=8" width="100%" alt="Top Languages"/>
-</td>
-<td width="50%">
-
-```
-📅 WEEKLY CODING ACTIVITY
-
-Mon ████████████████░░░░ 80% 🔥
-Tue ██████████████████░░ 90% 💪
-Wed ████████████░░░░░░░░ 60% 📚
-Thu ██████████████████░░ 90% ⚡
-Fri ████████████████████ 100% 🚀
-Sat ████████░░░░░░░░░░░░ 40% 🎮
-Sun ████░░░░░░░░░░░░░░░░ 20% ☕
-
-DAILY AVERAGE: 6.5 hrs/day
 ```
 
 </td>
