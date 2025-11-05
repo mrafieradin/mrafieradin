@@ -448,8 +448,9 @@
 ```
 
 <img src="https://img.shields.io/badge/Oracle-9D4EDD?style=for-the-badge&logo=oracle&logoColor=white&labelColor=10002B" />
-<img src="https://img.shields.io/badge/AWS-C77DFF?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=10002B" />
+<img src="https://img.shields.io/badge/AWS-C77DFF?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=10002B" />
 <img src="https://img.shields.io/badge/Cisco-E0AAFF?style=for-the-badge&logo=cisco&logoColor=black&labelColor=10002B" />
+
 
 </div>
 
