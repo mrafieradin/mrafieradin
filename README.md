@@ -49,20 +49,19 @@
 ```
 ┌──────────────────────────────────────────────────┐
 │ CLASS: ERP Developer                             │
-│ LEVEL: 25 → 26 (Loading...)                     │
+│ LEVEL: 28 → 29 (Loading...)                      │
 │                                                  │
-│ 📍 LOCATION: Petaling Jaya, Malaysia 🇲🇾         │
-│ 🎯 CURRENT QUEST: Mastering Dynamics 365 F&O    │
+│ LOCATION: Petaling Jaya, Malaysia 🇲🇾             │
+│ CURRENT QUEST: Mastering Dynamics 365 F&O        │
+│ SPECIAL ABILITIES UNLOCKED:                      │
+│ ├─ 70% Manual Work Elimination                   │
+│ ├─ 40% Process Speed Boost                       │
+│ ├─ 9-Week Rapid Learning                         │
+│ └─ 10+ Production Deployments                    │
 │                                                  │
-│ ⚡ SPECIAL ABILITIES UNLOCKED:                   │
-│ ├─ 70% Manual Work Elimination                  │
-│ ├─ 40% Process Speed Boost                      │
-│ ├─ 9-Week Rapid Learning                        │
-│ └─ 10+ Production Deployments                   │
-│                                                  │
-│ HP: ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️ 100%                     │
-│ MP: 💙💙💙💙💙💙💙💙💙💙 100%                     │
-│ XP: [████████████████████░] 95% to Level 26     │
+│ HP: ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️ 100%               │
+│ MP: 💙💙💙💙💙💙💙💙💙💙 100%               │
+│ XP: [████████████████████░] 95% to Level 26      │
 └──────────────────────────────────────────────────┘
 ```
 
@@ -115,17 +114,17 @@
 
 ```
 ╔════════════════════════════════════════════════════════════╗
-║  🎯 Quality Control System                                 ║
+║  Quality Control System                                    ║
 ║  ├─ Built flexible architecture with zero dev dependency   ║
 ║  ├─ Business users configure new test types independently  ║
 ║  └─ IMPACT: Reduced IT bottlenecks by 80%                  ║
-║                                                             ║
-║  📊 Comprehensive Reporting Suite                           ║
+║                                                            ║
+║  Comprehensive Reporting Suite                             ║
 ║  ├─ 5 report types: Material, QC, Payment, Sales, Packing  ║
 ║  ├─ Eliminated manual Excel/Word chaos across departments  ║
 ║  └─ IMPACT: 70% time savings company-wide                  ║
-║                                                             ║
-║  🤖 Power Platform Integration                              ║
+║                                                            ║
+║  Power Platform Integration                                ║
 ║  ├─ Canvas Apps + Power BI dashboards + Automated flows    ║
 ║  ├─ 14 HSE compliance apps for production safety           ║
 ║  └─ IMPACT: 40% reduction in paperwork time                ║
@@ -269,7 +268,7 @@
 
 ```
 ╔═══════════════════╗
-║   💼 DELIVERED    ║
+║     DELIVERED     ║
 ║                   ║
 ║       10+         ║
 ║    SOLUTIONS      ║
@@ -287,7 +286,7 @@
 
 ```
 ╔═══════════════════╗
-║   👥 SUPPORTED    ║
+║   SUPPORTED       ║
 ║                   ║
 ║       30+         ║
 ║      USERS        ║
@@ -305,7 +304,7 @@
 
 ```
 ╔═══════════════════╗
-║   📱 CREATED      ║
+║      CREATED      ║
 ║                   ║
 ║       14          ║
 ║   POWER APPS      ║
@@ -328,7 +327,7 @@
 
 ```
 ╔═══════════════════╗
-║  🎓 CERTIFIED     ║
+║     CERTIFIED     ║
 ║                   ║
 ║     ORACLE        ║
 ║   JAVA ASSOC.     ║
@@ -346,7 +345,7 @@
 
 ```
 ╔═══════════════════╗
-║  ☁️ GRADUATED     ║
+║     GRADUATED     ║
 ║                   ║
 ║       AWS         ║
 ║    RE/START       ║
@@ -364,7 +363,7 @@
 
 ```
 ╔═══════════════════╗
-║  🌐 CISCO         ║
+║     CISCO         ║
 ║                   ║
 ║      CCNA         ║
 ║   NETWORKING      ║
@@ -445,8 +444,8 @@ DAILY AVERAGE: 6.5 hrs/day
 ║  Total Commits:         [████████░░] Loading...            ║
 ║  Total Stars Earned:    [████████░░] Loading...            ║
 ║  Total Forks:           [████████░░] Loading...            ║
-║                                                             ║
-║  PRIMARY LANGUAGES:                                         ║
+║                                                            ║
+║  PRIMARY LANGUAGES:                                        ║
 ║  ├─ AL/C#          ████████████████░░░░ 70%                ║
 ║  ├─ JavaScript     ████████░░░░░░░░░░░░ 20%                ║
 ║  ├─ Java           ████░░░░░░░░░░░░░░░░  7%                ║
